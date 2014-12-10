@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      import_csv:
+        title: "Import Csv"
+        menu: "Import Csv for %{model_label} '%{object_label}'"
+        breadcrumb: "Import Csv"
+        link: "Import Csv"
+        bulk_link: "Import Csv selected %{model_label_plural}"
+        done: "Import Csved"
